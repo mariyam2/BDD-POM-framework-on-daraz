@@ -15,7 +15,7 @@ Then follow the steps below.
       - Automation_SELJAVA\src\test\java\StepDefinition
     - Pages Files
       - Contains all the elements and the methods. 
-      - SmallWorld\src\test\java\Pages
+      - Automation_SELJAVA\src\test\java\Pages
 4. To Run all the tests Go to Test Runner file and execute it. It will Run all in a sequence
 5. To Execute tests in Allure Reports.
    Run the command "allure serve allure-results"
