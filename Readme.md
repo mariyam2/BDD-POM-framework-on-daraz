@@ -9,10 +9,10 @@ Then follow the steps below.
 2. Project consist of Three Sections
     - Feature Files
       - Contains all the tests into Gherkin Language(Given, When and Then)
-      - \SmallWorld\src\test\java\Features
+      - \Automation_SELJAVA\src\test\java\Features
     - Step Definition
       - Contains the Glue code that works as a bridge for running the test
-      - SmallWorld\src\test\java\StepDefinition
+      - Automation_SELJAVA\src\test\java\StepDefinition
     - Pages Files
       - Contains all the elements and the methods. 
       - SmallWorld\src\test\java\Pages
